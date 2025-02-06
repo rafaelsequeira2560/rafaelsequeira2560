@@ -1,8 +1,10 @@
 ## Olá eu sou o Rafael Sequeira, e trabalho com programação e tecnologia!
 
+- A mais de 6 anos no mundo da informática.
 - 🕗 Atualmente trabalho com Front End.
-- 📜 A estudar JavaScript.
-- 🍀 A procura de novos projetos.
+- 📜 A estudar JavaScript e Phyton a tempo integral.
+- 🍀 A procura de novos projetos, caso tenha interese em algo que eu tenha feito não tenha problemas em me contactar.
+- Possuo uma página onde faço reparos de ecrãs para dispositivos móveis.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
